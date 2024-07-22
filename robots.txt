@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wenke.github.io/sitemap.xml
+Sitemap: https://WenkeRen.github.io/sitemap.xml
